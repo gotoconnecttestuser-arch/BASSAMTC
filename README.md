@@ -5,13 +5,13 @@ These SMS Terms and Conditions govern the use of text messaging services provide
 
 1. Consent to Receive SMS Messages
 
-By providing your phone number and opting in, you consent to receive customer care SMS messages from BASSAM.
+By opting in to receive SMS messages from BASSAM, you agree to receive customer care messages.
 
-These messages may include:
-- Customer support communications
-- Service notifications and updates
-- Account-related assistance
-- Responses to customer inquiries
+Message frequency may vary. On average, 1-2 messages per month.
+Message and data rates may apply.
+You can opt out at any time by replying STOP.
+For help, reply HELP.
+Privacy Policy: https://github.com/gotoconnecttestuser-arch/BASSAMPP
 
 Message frequency may vary.
 
